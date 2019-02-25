@@ -7,4 +7,4 @@ template for gitignore system files
 * Mac
 ##
 1. Initialize your repo with .gitignore
-2. add the contents of [templates.txt](https://github.com/JPrakke/gitignore-template/blob/master/template.txt) to the .gitignore file
+2. add the contents of [template.txt](https://github.com/JPrakke/gitignore-template/blob/master/template.txt) to the .gitignore file
