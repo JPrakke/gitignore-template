@@ -1,7 +1,6 @@
 ##---------------------------appfiles---------------------------##
 # config files
 
-
 ##---------------------------sysfiles---------------------------##
 #                  various system files from each os
 #------------------------------mac-------------------------------#
@@ -53,7 +52,6 @@ Temporary Items
 
 #----------------------------windows-----------------------------#
 
-
 # Windows thumbnail cache files
 Thumbs.db
 ehthumbs.db
@@ -77,3 +75,6 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+
+#------------------------------IDE-------------------------------#
+.vscode
